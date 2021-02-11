@@ -6,7 +6,7 @@ import random
 
 #Function to take user strings
 
-
+#Mix up the password
 
 #Output password
 password = "Not_secure101"
